@@ -1,0 +1,9 @@
+body{
+   
+   background-image:url(http://s03.s3c.es/imag/_v0/770x420/2/a/8/dumbo-wikipedia.jpg);
+   background-size:400px;
+}
+.dumbo{ height:190px;
+    }
+div{ font-size:30px;
+ color:  #EBFC01;}
